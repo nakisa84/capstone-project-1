@@ -1,7 +1,7 @@
-Project title: **Breast Cancer Survival Prediction**
+**Breast Cancer Survival Prediction**
 
 
-This project was done as the first capstone project in my journey of learning data science in Springboard.
+This is my first capstone project in my journey of learning data science in Springboard.
 Dataset that has been used here is [Seer Breast Cancer Data](https://ieee-dataport.org/open-access/seer-breast-cancer-data#files). This dataset of breast cancer patients was obtained from the 2017 November update of the SEER Program of the NCI, which provides information on population-based cancer statistics. The dataset involved female patients with infiltrating duct and lobular carcinoma breast cancer diagnosed in 2006-2010.		
 
 **Project Steps**:			
