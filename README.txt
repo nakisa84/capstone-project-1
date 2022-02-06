@@ -19,4 +19,3 @@ Modeling - The most important part of course, where we actually try fitting diff
 
 Please review the notebook files for the full project and prediction.
 
->>>>>>> e5a21f68db5a3d523d82ada5311dd320eed495f0
